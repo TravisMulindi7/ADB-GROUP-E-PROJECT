@@ -171,6 +171,6 @@ http://localhost:8080/api-docs
 
 ## ✍️ Authors
 
-- Author 1
+- Travis Mulindi
 - Author 2
 - Author 3
